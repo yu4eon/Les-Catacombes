@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mur
+  - Ennemi
+  - Boss
+  - Bouclier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1501264945
+    locked: 0
+  - name: Objets
+    uniqueID: 2352499421
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3825679641
+    locked: 0
+  - name: FX
+    uniqueID: 1254270457
+    locked: 0
+  - name: UI
+    uniqueID: 2135291901
+    locked: 0
